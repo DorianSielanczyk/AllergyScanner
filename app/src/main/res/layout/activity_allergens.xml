@@ -17,15 +17,15 @@
         <TextView
             android:id="@+id/header"
             android:layout_width="match_parent"
-            android:layout_height="72dp"
+            android:layout_height="100dp"
             android:background="@drawable/bg_header"
             android:fontFamily="sans-serif-condensed"
             android:gravity="bottom|start"
             android:paddingStart="20dp"
-            android:paddingBottom="10dp"
+            android:paddingBottom="30dp"
             android:text="Alergeny"
             android:textColor="@color/white"
-            android:textSize="28sp"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <ScrollView

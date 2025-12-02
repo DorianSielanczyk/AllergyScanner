@@ -7,15 +7,35 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <LinearLayout
+        android:id="@+id/panel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_panel"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"/>
+    </LinearLayout>
+
     <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:id="@+id/header2"
+        android:layout_width="412dp"
+        android:layout_height="100dp"
+        android:background="@drawable/bg_header"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="bottom|start"
+        android:paddingStart="20dp"
+        android:paddingBottom="30dp"
+        android:text="Witaj!"
+        android:textColor="@color/white"
+        android:textSize="34sp"
+        android:textStyle="bold" />
 
     <Button
         android:id="@+id/allergens"
@@ -25,6 +45,6 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+        app:layout_constraintTop_toBottomOf="@+id/header2" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
