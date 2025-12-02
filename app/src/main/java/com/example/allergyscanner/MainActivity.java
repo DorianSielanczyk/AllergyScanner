@@ -38,4 +38,5 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, AllergensActivity.class);
         startActivity(intent);
     }
+    //test jira
 }
