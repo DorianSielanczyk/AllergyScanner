@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
 
-        Button allergensButton = findViewById(R.id.allergens);
+        Button allergensButton = findViewById(R.id.btnAllergens);
         allergensButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
