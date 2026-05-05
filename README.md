@@ -10,10 +10,12 @@
 
 ## 📖 About The Project
 
+In this project I was responsible for creating and connecting the SQLite database to the project, as well as building the allergens panel.
+
 <table align="center">
   <tr>
     <td>
-      <img width="250" alt="Ekran 1" src="https://github.com/user-attachments/assets/c8d3ca98-a848-48f6-9325-3d14cf9c4329" />
+     <img width="278" height="580" alt="image" src="https://github.com/user-attachments/assets/3c037772-a085-412d-845a-aff4ab19fe59" />
     </td>
     <td>
       <img width="250" alt="Ekran 2" src="https://github.com/user-attachments/assets/a1c600d5-2b05-460b-b861-106f7f674528" />
