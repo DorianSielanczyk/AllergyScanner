@@ -10,8 +10,19 @@
 
 ## 📖 About The Project
 
-<img width="259" height="582" alt="image" src="https://github.com/user-attachments/assets/a1c600d5-2b05-460b-b861-106f7f674528" />
-<img width="259" height="582" alt="image" src="https://github.com/user-attachments/assets/ac90c660-8007-42a7-8284-760ec174d5cc" />
+<table align="center">
+  <tr>
+    <td>
+      <img width="250" alt="Ekran 1" src="https://github.com/user-attachments/assets/c8d3ca98-a848-48f6-9325-3d14cf9c4329" />
+    </td>
+    <td>
+      <img width="250" alt="Ekran 2" src="https://github.com/user-attachments/assets/a1c600d5-2b05-460b-b861-106f7f674528" />
+    </td>
+    <td>
+      <img width="250" alt="Ekran 3" src="https://github.com/user-attachments/assets/ac90c660-8007-42a7-8284-760ec174d5cc" />
+    </td>
+  </tr>
+</table>
 
 * Barcode Scanning: Scan products directly in supermarkets.
 * Accessibility: Designed for people who struggle with reading small print on packaging.
